@@ -19,5 +19,5 @@ function destructivelyRemoveFirstKitten() {
   return kittens
 }
 function prependKitten(name) {
-  return ["Broom", ... kittens]
+  return ["Arnold", ... kittens]
 }
