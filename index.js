@@ -1,4 +1,5 @@
 const app = "I don't do much."
 function destructivelyAppendKitten(name) {
-  shift.kitten
+  name.shift(name)
+  return name
 }
